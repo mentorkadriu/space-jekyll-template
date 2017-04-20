@@ -1,8 +1,8 @@
 # Site settings
 title: Mentor Kadriu - Web Developer
 description: "Mentor Kadriu - Web Developer from Pristina, Kosovo"
-baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+baseurl: "/mentorkadriu.github.io" # for test: remove string '/space-jekyll-templa' to ''
+url: "https://mentorkadriu.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: Mentor Kadriu
 user_title: Mentor Kadriu - FrontEnd
@@ -10,7 +10,7 @@ email: mentor.kadriu@gmail.com
 twitter_username: mentorkadriu
 github_username:  mentorkadriu
 gplus_username:
-disqus_username:
+disqus_username: mentorkadriu
 
 # Build settings
 markdown: kramdown
