@@ -1,7 +1,7 @@
 # Site settings
 title: Mentor Kadriu - Web Developer
 description: "Mentor Kadriu - Web Developer from Pristina, Kosovo"
-baseurl: "/mentorkadriu.github.io" # for test: remove string '/space-jekyll-templa' to ''
+baseurl: "/mentorkadriu" # for test: remove string '/space-jekyll-templa' to ''
 url: "https://mentorkadriu.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
 username: Mentor Kadriu
