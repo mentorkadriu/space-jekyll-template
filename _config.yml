@@ -39,7 +39,9 @@ links:
     url: /about
 # projects in header index
 projects:
-#  - name: asciilang
-#    url: https://github.com/victorvoid/asciilang
+  - name: LandX - Landing Page
+    url: https://github.com/mentorkadriu/projects-landx
+  - name: Sally - Landing Page
+    url: https://github.com/mentorkadriu/projects-sally
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
