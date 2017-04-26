@@ -41,7 +41,11 @@ links:
 projects:
   - name: LandX - Landing Page
     url: https://github.com/mentorkadriu/projects-landx
-  - name: Sally - Landing Page
+  - name: Selly - Landing Page
     url: https://github.com/mentorkadriu/projects-selly
+  - name: Tinyone - Landing Page
+    url: https://github.com/mentorkadriu/projects-tinyone
+  - name: MyFolio - Landing Page
+    url: https://github.com/mentorkadriu/projects-myfolio
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
