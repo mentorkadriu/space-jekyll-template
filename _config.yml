@@ -42,6 +42,6 @@ projects:
   - name: LandX - Landing Page
     url: https://github.com/mentorkadriu/projects-landx
   - name: Sally - Landing Page
-    url: https://github.com/mentorkadriu/projects-sally
+    url: https://github.com/mentorkadriu/projects-selly
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
